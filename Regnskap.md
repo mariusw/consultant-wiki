@@ -1,4 +1,6 @@
-## Regnskapsprogram
+## Regnskap
+
+### Regnskapsprogram
 
 * [Fiken](http://fiken.no) De har også en tjeneste som gjør at man for 200kr/mnd kan sende ubegrenset antall mail til en regnskapsfører med spørsmål
 
@@ -9,9 +11,9 @@ Accounting Group
 Kontakt@acgr.no
 http://www.regnskap123.no/fiken
 
-PG Regnskap Oslo AS 
+PG Regnskap Oslo AS
 95 48 76 39
-Haider Ali Chishti 
+Haider Ali Chishti
 haider@pgregnskap.no
 www.pgregnskap.no
 
@@ -30,8 +32,8 @@ Effekt regnskap
 post@effektregnskap.no
 www.effektregnskap.no
 
-## Regnskapsfører
+### Regnskapsfører
 
-* [http://www.sagaservices.no/oslo-meny/oslo](http://www.sagaservices.no/oslo-meny/oslo) De er flinke på å små/enmanns AS, har fokus på rådgivning og kostnadsstyring. 
+* [http://www.sagaservices.no/oslo-meny/oslo](http://www.sagaservices.no/oslo-meny/oslo) De er flinke på å små/enmanns AS, har fokus på rådgivning og kostnadsstyring.
 
 * hanspeide bruker http://www.rav1.no/

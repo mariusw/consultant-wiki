@@ -1,1 +1,0 @@
-[DnB - Drive bedrift](https://www.dnb.no/bedrift/tema/drive-bedrift.html)
