@@ -1,3 +1,3 @@
 ## Lønn
 
-Coming soon.
+(Coming soon.)

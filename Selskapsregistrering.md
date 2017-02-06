@@ -1,3 +1,3 @@
 ## Selskapsregistrering
 
-Coming soon.
+(Coming soon.)
