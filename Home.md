@@ -5,4 +5,5 @@ Contact us, or contribute directly, for more/better info here.
 
 ### Useful links
 
-[DnB - Drive bedrift](https://www.dnb.no/bedrift/tema/drive-bedrift.html)
+[DNB - Drive bedrift](https://www.dnb.no/bedrift/tema/drive-bedrift.html)
+[Statens standardavtale](https://www.anskaffelser.no/verktoy/bistandsavtalene-ssa-b-og-ssa-b-enkel)
